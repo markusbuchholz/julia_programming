@@ -5,7 +5,7 @@
 
 ---
 
-## Install
+## Install Julia
 
 ```bash
 #Download tar.gz file from: https://julialang.org/downloads/
@@ -13,6 +13,20 @@
 sudo tar zxvf julia-1.10.9-linux-x86_64.tar.gz -C /opt/
 
 sudo ln -s /opt/julia-1.10.9/bin/julia /usr/local/bin/julia
+
+```
+
+## Install Pluto
+
+```bash
+
+julia> ]
+
+(@v1.10) pkg> add Pluto
+
+julia> using Pluto
+
+julia> Pluto.run()
 
 ```
 
