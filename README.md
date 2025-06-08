@@ -1,4 +1,7 @@
 # Julia Programming
+---
+![image](https://github.com/user-attachments/assets/8ffcfbac-0f6f-4adc-8e2c-91071ca15f49)
+
 
 ---
 
