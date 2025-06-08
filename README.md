@@ -42,3 +42,7 @@ Pkg.status()           # list installed packages
 Pkg.update()           # update all packages
 
 ```
+
+## Links
+
+- [Tutorials](https://julialang.org/learning/tutorials/)
