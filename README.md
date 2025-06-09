@@ -56,6 +56,9 @@ Pkg.status()           # list installed packages
 Pkg.update()           # update all packages
 
 ```
+## Julia Robotics
+
+Check [juliarobotics](https://juliarobotics.org/)
 
 ## Links
 
